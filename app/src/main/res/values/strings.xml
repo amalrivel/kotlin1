@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="not_found">User Not Found</string>
+    <string name="user_username">Username</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="user_name">Name</string>
+    <string name="user_follower">%s Follower</string>
+    <string name="user_following">%s Following</string>
+    <string name="detail_user">Detail User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_url">Url</string>
+</resources>
